@@ -3,11 +3,11 @@ import chalk from 'chalk'
 import fs from 'fs'
 import { fileURLToPath } from 'url'
 
-global.botnumber = ""
+global.botnumber = "3791853476"
 global.confirmCode = ""
 
 global.owner = [
-  ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
+  ['3791853476', '◤✞ 𝕾𝖆𝖒𝖎 ✞◥', true],
   ['xxxxxxxxxx',],
   ['xxxxxxxxxx'],	
   ['xxxxxxxxxx',],
@@ -66,7 +66,7 @@ global.author = '𝐌𝐝'
 
 global.vs = '𝟐.𝟐'
 
-global.nomebot = '𝐁𝐢𝐱𝐛𝐲𝐁𝐨𝐭-𝐌𝐝'
+global.nomebot = '◤✞ 𝕾𝖆𝖒𝖎𝖝𝕭𝖔𝖙-𝕸𝕯 ✞◥'
 
 global.multiplier = 69 
 global.maxwarn = '4' 
